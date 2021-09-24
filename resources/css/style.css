@@ -104,11 +104,11 @@ body{
   margin-top: 50px;
 }
 
-.menu-container h2{
+.menu-container,.food-specials h2{
   width: 100%;
 }
 
-.menu-container p{
+.menu-container, .food-specials p{
   width: 100%;
   padding: 0;
   margin: 0 0 10px 0;
@@ -148,6 +148,51 @@ body{
   flex-wrap: wrap;
   width: 300px;
 }
+
+.food-specials{
+  display: flex;
+  flex-wrap: wrap;
+  width: 1000px;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.coffee-cake{
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+
+.coffee-cake img{
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+
+.almond-croissant{
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+
+.almond-croissant img{
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+
+.pumpkin-bagel{
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+
+.pumpkin-bagel img{
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+
 #contact-us{
   display: block;
   font-size: 2.3em;
@@ -185,7 +230,7 @@ input[type=submit]:hover {
 
 .container {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: whitesmoke;
   padding: 10px;
 }
 
