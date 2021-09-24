@@ -220,16 +220,61 @@ text-align: center;
 .drinks{
   display: flex;
   flex-flow: column;
+ Background-color: rgba(214, 182, 159,0.40);
+ font-weight: bold;
+ width: 300px;
+ padding-bottom: 20px;
+ padding-top: 20px;
 }
 
 .drink-flavors{
   display: flex;
   flex-flow: column;
+  Background-color: rgba(214, 182, 159,0.40);
+  font-weight: bold;
+  width: 300px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .tea-options{
-  display: flex;
+  display:flex;
   flex-flow: column;
+  Background-color: rgba(214, 182, 159,0.40);
+  font-weight: bold;
+  width: 300px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.sandwiches{
+  display:flex;
+  flex-flow: column;
+  Background-color: rgba(214, 182, 159,0.40);
+  font-weight: bold;
+  width: 300px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.food-flavors{
+  display:flex;
+  flex-flow: column;
+  Background-color: rgba(214, 182, 159,0.40);
+  font-weight: bold;
+  width: 300px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.bakery{
+  display:flex;
+  flex-flow: column;
+  Background-color: rgba(214, 182, 159,0.40);
+  font-weight: bold;
+  width: 300px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 #contact-us{
