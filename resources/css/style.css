@@ -136,6 +136,7 @@ text-align: center;
   flex-wrap: wrap;
   width: 300px;
   height: 275px;
+  border: 10px solid rgba(214, 182, 159,0.60);
 }
 
 .spiced-maple-latte{
@@ -149,6 +150,7 @@ text-align: center;
   flex-wrap: wrap;
   width: 300px;
   height: 275px;
+  border: 10px solid rgba(214, 182, 159,0.60);
 }
 
 .coconut-latte{
@@ -162,6 +164,7 @@ text-align: center;
   flex-wrap: wrap;
   width: 300px;
   height: 275px;
+  border: 10px solid rgba(214, 182, 159,0.60);
 }
 
 .food-specials{
@@ -183,6 +186,7 @@ text-align: center;
   flex-wrap: wrap;
   width: 300px;
   height: 275px;
+  border: 10px solid rgba(214, 182, 159,0.60);
 }
 
 .almond-croissant{
@@ -196,6 +200,7 @@ text-align: center;
   flex-wrap: wrap;
   width: 300px;
   height: 275px;
+  border: 10px solid rgba(214, 182, 159,0.60);
 }
 
 .pumpkin-bagel{
@@ -209,6 +214,22 @@ text-align: center;
   flex-wrap: wrap;
   width: 300px;
   height: 275px;
+  border: 10px solid rgba(214, 182, 159,0.60);
+}
+
+.drinks{
+  display: flex;
+  flex-flow: column;
+}
+
+.drink-flavors{
+  display: flex;
+  flex-flow: column;
+}
+
+.tea-options{
+  display: flex;
+  flex-flow: column;
 }
 
 #contact-us{
