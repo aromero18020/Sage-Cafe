@@ -13,11 +13,10 @@ body{
 .top-page-contact {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 10px;
     overflow: hidden;
     background-color: #476a45;
     height: 55px;
-    padding-right: 10px;
   }
   
 .top-page-contact p {
@@ -97,7 +96,7 @@ body{
 }
 
 .menu-container{
-  display: flex;
+  display: grid;
   flex-wrap: wrap;
   width: 1000px;
   justify-content: space-around;
@@ -114,13 +113,21 @@ body{
   margin: 0 0 10px 0;
 }
 
+.drink-specials{
+  display: flex;
+  flex-wrap: wrap;
+  width: 1000px;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
 .lavender-latte{
   display: flex;
   flex-wrap: wrap;
   width: 300px;
 }
 .lavender-latte img{
-  display: flex;
+  display: grid;
   flex-wrap: wrap;
   width: 300px;
 }
