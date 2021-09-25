@@ -225,6 +225,7 @@ text-align: center;
  width: 300px;
  padding-bottom: 20px;
  padding-top: 20px;
+ height: auto;
 }
 
 .drink-flavors{
@@ -235,6 +236,9 @@ text-align: center;
   width: 300px;
   padding-bottom: 20px;
   padding-top: 20px;
+  margin-left: 35%;
+  margin-top: -52.5%;
+  height: auto;
 }
 
 .tea-options{
@@ -245,6 +249,9 @@ text-align: center;
   width: 300px;
   padding-bottom: 20px;
   padding-top: 20px;
+  margin-left: 70%;
+  margin-top: -55.5%;
+  height: 500px;
 }
 
 .sandwiches{
