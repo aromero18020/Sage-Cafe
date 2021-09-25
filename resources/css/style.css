@@ -1,3 +1,4 @@
+/* IMPORTED FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
@@ -10,6 +11,7 @@ body{
     text-align: center;
 }
 
+/* TOP CONTACT BUTTON */
 .top-page-contact {
     list-style-type: none;
     margin: 0;
@@ -35,6 +37,7 @@ body{
     font-weight: bold;
   }
 
+/* HEADER */
 .header{
     background-image: url();
     padding-top: 50px;
@@ -58,6 +61,8 @@ body{
   font-weight: bold;
   text-shadow: 2px 2px #d6b69f;
 }
+
+/* NAVIGATION BAR */
 .navigation-bar{
   list-style:none;
   margin:0;
@@ -94,7 +99,7 @@ body{
   font-weight: bold;
   text-shadow: 2px 2px #d6b69f;
 }
-
+/* MENU */
 .menu-container{
   display: grid;
   flex-wrap: wrap;
@@ -113,6 +118,7 @@ body{
   margin: 0 0 10px 0;
 }
 
+/* DRINK SPECIALS */
 #drink-title{
   margin-bottom: -10%;
 }
@@ -171,6 +177,8 @@ text-align: center;
   border: 10px solid rgba(214, 182, 159,0.60);
 }
 
+/* FOOD SPECIALS */
+
 .food-specials{
   display: flex;
   flex-wrap: wrap;
@@ -221,6 +229,7 @@ text-align: center;
   border: 10px solid rgba(214, 182, 159,0.60);
 }
 
+/* MENU DRINKS */
 .drinks{
   display: flex;
   flex-flow: column;
@@ -258,6 +267,7 @@ text-align: center;
   height: 500px;
 }
 
+/* MENU FOOD */
 .sandwiches{
   display:flex;
   flex-flow: column;
@@ -292,6 +302,7 @@ text-align: center;
   margin-top: -38.5%;
 }
 
+/* CONTACT US PAGE */
 #contact-us{
   display: block;
   font-size: 2.3em;
@@ -302,6 +313,7 @@ text-align: center;
   font-weight: bold;
   text-shadow: 2px 2px #d6b69f;
 }
+
 * {
   box-sizing: border-box;
 }
@@ -351,6 +363,7 @@ input[type=submit]:hover {
 color: whitesmoke;
 }
 
+/* FOOTER */
 *{
   padding: 0;
   margin: 0;
