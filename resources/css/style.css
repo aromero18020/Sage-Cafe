@@ -113,6 +113,10 @@ body{
   margin: 0 0 10px 0;
 }
 
+#drink-title{
+  margin-bottom: -10%;
+}
+
 .drink-specials{
   display: flex;
   flex-wrap: wrap;
@@ -272,6 +276,8 @@ text-align: center;
   width: 300px;
   padding-bottom: 20px;
   padding-top: 20px;
+  margin-left: 35%;
+  margin-top: -30.2%;
 }
 
 .bakery{
@@ -282,6 +288,8 @@ text-align: center;
   width: 300px;
   padding-bottom: 20px;
   padding-top: 20px;
+  margin-left: 70%;
+  margin-top: -38.5%;
 }
 
 #contact-us{
