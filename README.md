@@ -51,10 +51,10 @@ To do:
 ## Acknowledgements
 Give credit here.
 - This project was inspired by CodeCademy's Company Homepage Challenge Project
-- Many thanks to my fiance Mikaila Parry for being the designer and brainstormer behind this webpage.
+- Many thanks to my fiance Mikaila Parry for being the designer and brainstormer behind this webpage as well as Mircea(Zenandreas) for assisting me with some CSS aspects!
 
 
 ## Contact
-Created by Andre Romero (aromero18020), feel free to contact me by e-mail at romeroandre801@outlook.com.
+Created by Andre Romero (aromero18020) and Mircea(zenandreas).
 
 
